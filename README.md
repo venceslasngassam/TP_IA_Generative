@@ -1,3 +1,40 @@
+# 🚀 TP_IA_Generative  
+Assistant de voyage intelligent nouvelle génération 🌍✨  
+
+TP_IA_Generative simplifie la planification de vos voyages grâce à l’IA.  
+Obtenez en quelques secondes un itinéraire **personnalisé**, **optimisé** et **exportable**.  
+
+---
+
+## ✨ Fonctionnalités  
+
+- 🔍 Recherche intelligente (Google Places, Tavily API)  
+- 💰 Gestion du budget avec conversion de devises en temps réel  
+- 🌦️ Prévisions météo actualisées  
+- 📄 Export des plans en **Markdown** (ou PDF en option)  
+- ⚙️ Architecture modulaire (API + App web)  
+
+---
+
+## 🛠️ Stack technique  
+
+- **Langage** : Python 3.12  
+- **Gestion env.** : [uv](https://github.com/astral-sh/uv)  
+- **APIs** : Google Places, Tavily, OpenWeather  
+- **Frameworks** : FastAPI / Streamlit  
+
+---
+
+## 🚀 Installation & Lancement  
+
+### 1. Cloner le dépôt  
+```bash
+git clone https://github.com/votre-utilisateur/TP_IA_Generative.git
+cd TP_IA_Generative
+
+
+
+
 print(shutil.which("uv"))```
 
 ```pip install uv```
